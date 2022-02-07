@@ -16,7 +16,6 @@ a {
 
 .swiper {
   width: 100%;
-  /* height: 100%; */
 }
 
 .swiper-button-next::after {
@@ -34,7 +33,6 @@ a {
   box-sizing: border-box;
   border-radius: 50%;
   padding: 0px 20px;
-  /* position: relative; */
 }
 
 .swiper-button-next::before {
